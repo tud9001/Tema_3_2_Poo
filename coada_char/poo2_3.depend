@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574890487 source:c:\users\tudor\desktop\programe cand chiar lucrez la info lol probabil e gol\poo2_3\main.cpp
+	<iostream>
+	<cstring>
+	"nodchar.h"
+	"coadacharpoo.h"
+
+1574613682 c:\users\tudor\desktop\programe cand chiar lucrez la info lol probabil e gol\poo2_3\nodchar.h
+	<iostream>
+	<cstring>
+
+1574891011 c:\users\tudor\desktop\programe cand chiar lucrez la info lol probabil e gol\poo2_3\coadacharpoo.h
+	<iostream>
+	<cstring>
+	"nodchar.h"
+
